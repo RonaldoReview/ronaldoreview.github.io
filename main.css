@@ -1,0 +1,58 @@
+.header {
+    font-family:'Faster One', cursive;
+}
+.ronaldo-paragraph {
+    font-family: 'Marcellus SC', serif;
+}
+.container {
+    width:100%;
+    overflow:hidden
+}
+.ronaldo-image {
+    width:auto;
+    height:275px
+}
+.column  {
+    float:left;
+    width:33.3%;
+    text-align:center
+}
+.header-villarreal {
+    font-family: 'Italianno', cursive;
+    font-size:50px;
+}
+.body-font {
+    font-family: 'Roboto', sans-serif;
+    font-size:20px
+}
+.half-column {
+    float:left;
+    width:30%;
+    padding:5px;
+}
+.third-column {
+    float:left;
+    max-width:30%;
+    padding:5px;
+    position:relative;
+    text-align:center;
+    align-items:center;
+}
+.homepage-header {
+    font-family: 'Zen Antique Soft', serif;
+    font-size: 40px;
+}
+.portugal-logo {
+    width:auto;
+    height:250px;
+    position:absolute;
+    right:0;
+    top:0;
+}
+.category-text{
+    font-family: 'Mukta', sans-serif;
+    font-size:20px;
+}
+.header-atalanta {
+    font-family: 'Exo', sans-serif;
+}
